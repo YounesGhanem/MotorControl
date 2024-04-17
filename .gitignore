@@ -1,0 +1,11 @@
+
+
+.vscode/
+*.log
+*.pdf
+build/
+.DS_Store
+*.ioc.bak
+*.wbdef
+*.settings
+
